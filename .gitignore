@@ -1,0 +1,12 @@
+.env
+*.zip
+_*.txt
+_*.log
+_*.py
+__pycache__/
+*.pyc
+bot_data.db
+bot_data.db-shm
+bot_data.db-wal
+*.db-shm
+*.db-wal

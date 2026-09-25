@@ -1,0 +1,9 @@
+.env
+*.zip
+_*.txt
+_*.log
+_*.py
+__pycache__/
+*.pyc
+bot_data.db
+.git/
